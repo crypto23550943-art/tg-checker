@@ -1,0 +1,340 @@
+2025-08-09 18:16:39 — INFO — [User 9999] ❌ No session file for user
+2025-08-09 18:21:42 — INFO — Connecting to 149.154.167.51:443/TcpFull...
+2025-08-09 18:21:44 — INFO — Connection to 149.154.167.51:443/TcpFull complete!
+2025-08-09 18:21:45 — INFO — [User 9999] ⚠️ Session unauthorized/expired
+2025-08-09 18:21:45 — INFO — Disconnecting from 149.154.167.51:443/TcpFull...
+2025-08-09 18:21:45 — INFO — Disconnection from 149.154.167.51:443/TcpFull complete!
+2025-08-09 18:23:34 — INFO — Connecting to 149.154.167.51:443/TcpFull...
+2025-08-09 18:23:34 — INFO — Connection to 149.154.167.51:443/TcpFull complete!
+2025-08-09 18:23:35 — INFO — [User 9999] ⚠️ Session unauthorized/expired
+2025-08-09 18:23:35 — INFO — Disconnecting from 149.154.167.51:443/TcpFull...
+2025-08-09 18:23:35 — INFO — Disconnection from 149.154.167.51:443/TcpFull complete!
+2025-08-09 18:26:17 — INFO — [User 9999] 📱 Checked 13 numbers; valid=4 invalid=9
+2025-08-09 18:27:45 — INFO — Connecting to 149.154.167.51:443/TcpFull...
+2025-08-09 18:27:45 — INFO — Connection to 149.154.167.51:443/TcpFull complete!
+2025-08-09 18:27:46 — INFO — [User 9999] ⚠️ Session unauthorized/expired
+2025-08-09 18:27:46 — INFO — Disconnecting from 149.154.167.51:443/TcpFull...
+2025-08-09 18:27:46 — INFO — Disconnection from 149.154.167.51:443/TcpFull complete!
+2025-08-09 18:29:05 — INFO — [User 9999] 📱 Checked 13 numbers; valid=4 invalid=9
+2025-08-09 18:40:37 — INFO — [User SYSTEM] 🚀 Bot is starting
+2025-08-09 18:40:37 — INFO — Start polling
+2025-08-09 18:40:38 — INFO — Run polling for bot @KAWSARBEBBZZ_BOT id=8402776636 - 'POWERED BY MKAWSAR & MKAWSAR'
+2025-08-09 18:41:34 — INFO — [User 6985053471] 🚀 Restarted bot (session exists)
+2025-08-09 18:41:35 — INFO — Update id=616637022 is handled. Duration 1250 ms by bot id=8402776636
+2025-08-09 18:41:44 — INFO — [User 6985053471] 📥 Dropped numbers for auto-check
+2025-08-09 18:41:44 — INFO — Connecting to 149.154.167.92:443/TcpFull...
+2025-08-09 18:41:44 — INFO — Connection to 149.154.167.92:443/TcpFull complete!
+2025-08-09 18:41:47 — INFO — [User 6985053471] 📱 Checked 29 numbers; valid=4 invalid=25
+2025-08-09 18:41:47 — INFO — Disconnecting from 149.154.167.92:443/TcpFull...
+2025-08-09 18:41:47 — INFO — Disconnection from 149.154.167.92:443/TcpFull complete!
+2025-08-09 18:41:48 — INFO — Update id=616637023 is handled. Duration 3328 ms by bot id=8402776636
+2025-08-09 18:41:57 — INFO — Update id=616637024 is not handled. Duration 0 ms by bot id=8402776636
+2025-08-09 18:42:03 — INFO — [User 6985053471] 📊 STATUS CHECK — Used: 0, Remaining: 120
+2025-08-09 18:42:04 — INFO — Update id=616637025 is handled. Duration 765 ms by bot id=8402776636
+2025-08-09 18:55:56 — INFO — Polling stopped
+2025-08-09 18:55:56 — INFO — [User SYSTEM] 🛑 Bot is shutting down
+2025-08-09 18:55:56 — INFO — Polling stopped for bot @KAWSARBEBBZZ_BOT id=8402776636 - 'POWERED BY MKAWSAR & MKAWSAR'
+2025-08-09 18:55:56 — INFO — [User SYSTEM] ❗ Bot stopped manually
+2025-08-09 18:56:05 — INFO — [User SYSTEM] 🚀 Bot is starting
+2025-08-09 18:56:05 — INFO — Start polling
+2025-08-09 18:56:06 — INFO — Run polling for bot @KAWSARBEBBZZ_BOT id=8402776636 - 'POWERED BY MKAWSAR & MKAWSAR'
+2025-08-09 18:56:09 — INFO — [User 6985053471] 📊 STATUS CHECK — Used: 0, Remaining: 120
+2025-08-09 18:56:09 — INFO — Update id=616637026 is handled. Duration 860 ms by bot id=8402776636
+2025-08-09 18:56:17 — INFO — [User 6985053471] 📥 Dropped numbers for auto-check
+2025-08-09 18:56:17 — INFO — Connecting to 149.154.167.92:443/TcpFull...
+2025-08-09 18:56:17 — INFO — Connection to 149.154.167.92:443/TcpFull complete!
+2025-08-09 18:56:20 — INFO — [User 6985053471] 📱 Checked 29 numbers; valid=4 invalid=25
+2025-08-09 18:56:20 — INFO — Disconnecting from 149.154.167.92:443/TcpFull...
+2025-08-09 18:56:20 — INFO — Disconnection from 149.154.167.92:443/TcpFull complete!
+2025-08-09 18:56:20 — INFO — Update id=616637027 is handled. Duration 3172 ms by bot id=8402776636
+2025-08-09 18:56:27 — INFO — [User 6985053471] 📊 STATUS CHECK — Used: 0, Remaining: 120
+2025-08-09 18:56:27 — INFO — Update id=616637028 is handled. Duration 485 ms by bot id=8402776636
+2025-08-09 18:56:32 — INFO — Polling stopped
+2025-08-09 18:56:33 — INFO — [User SYSTEM] 🛑 Bot is shutting down
+2025-08-09 18:56:33 — INFO — Polling stopped for bot @KAWSARBEBBZZ_BOT id=8402776636 - 'POWERED BY MKAWSAR & MKAWSAR'
+2025-08-09 18:56:33 — INFO — [User SYSTEM] ❗ Bot stopped manually
+2025-08-09 19:32:42 — INFO — [User SYSTEM] 🚀 Bot is starting
+2025-08-09 19:32:42 — INFO — Start polling
+2025-08-09 19:32:43 — INFO — Run polling for bot @KAWSARBEBBZZ_BOT id=8402776636 - 'POWERED BY MKAWSAR & MKAWSAR'
+2025-08-09 19:35:19 — INFO — [User 6985053471] 📊 STATUS CHECK — Used: 0, Remaining: 120
+2025-08-09 19:35:20 — INFO — Update id=616637029 is handled. Duration 843 ms by bot id=8402776636
+2025-08-09 19:35:26 — INFO — [User 6985053471] 📥 Dropped numbers for auto-check
+2025-08-09 19:35:26 — INFO — Connecting to 149.154.167.92:443/TcpFull...
+2025-08-09 19:35:26 — INFO — Connection to 149.154.167.92:443/TcpFull complete!
+2025-08-09 19:35:29 — INFO — [User 6985053471] 📱 Checked 29 numbers; valid=4 invalid=25
+2025-08-09 19:35:29 — INFO — Disconnecting from 149.154.167.92:443/TcpFull...
+2025-08-09 19:35:29 — INFO — Disconnection from 149.154.167.92:443/TcpFull complete!
+2025-08-09 19:35:29 — INFO — Update id=616637030 is handled. Duration 3358 ms by bot id=8402776636
+2025-08-09 19:35:34 — INFO — [User 6985053471] 📊 STATUS CHECK — Used: 0, Remaining: 120
+2025-08-09 19:35:34 — INFO — Update id=616637031 is handled. Duration 389 ms by bot id=8402776636
+2025-08-09 19:36:42 — INFO — Polling stopped
+2025-08-09 19:36:42 — INFO — [User SYSTEM] 🛑 Bot is shutting down
+2025-08-09 19:36:42 — INFO — Polling stopped for bot @KAWSARBEBBZZ_BOT id=8402776636 - 'POWERED BY MKAWSAR & MKAWSAR'
+2025-08-09 19:36:42 — INFO — [User SYSTEM] ❗ Bot stopped manually
+2025-08-09 19:38:08 — INFO — [User SYSTEM] 🚀 Bot is starting
+2025-08-09 19:38:08 — INFO — Start polling
+2025-08-09 19:38:08 — INFO — Run polling for bot @KAWSARBEBBZZ_BOT id=8402776636 - 'POWERED BY MKAWSAR & MKAWSAR'
+2025-08-09 19:38:14 — INFO — Update id=616637032 is not handled. Duration 0 ms by bot id=8402776636
+2025-08-09 19:38:14 — ERROR — Cause exception while process update id=616637032 by bot id=8402776636
+NameError: name 'get_checks_done' is not defined
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\fsm\middleware.py", line 41, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 128, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 123, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 156, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 128, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 123, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 148, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\User\Downloads\Documents\TG_CHECKER_V1_FIXED (1)\TG_CHECKER _V1\handlers\check_status.py", line 32, in handle_status_button
+    count = get_checks_done(user_id)
+            ^^^^^^^^^^^^^^^
+NameError: name 'get_checks_done' is not defined
+2025-08-09 19:38:27 — INFO — [User 6985053471] 📥 Dropped numbers for auto-check
+2025-08-09 19:38:27 — INFO — Connecting to 149.154.167.92:443/TcpFull...
+2025-08-09 19:38:27 — INFO — Connection to 149.154.167.92:443/TcpFull complete!
+2025-08-09 19:38:30 — INFO — [User 6985053471] 📱 Checked 29 numbers; valid=4 invalid=25
+2025-08-09 19:38:30 — INFO — Disconnecting from 149.154.167.92:443/TcpFull...
+2025-08-09 19:38:30 — INFO — Disconnection from 149.154.167.92:443/TcpFull complete!
+2025-08-09 19:38:31 — INFO — Update id=616637033 is handled. Duration 3546 ms by bot id=8402776636
+2025-08-09 19:38:44 — INFO — Update id=616637034 is not handled. Duration 0 ms by bot id=8402776636
+2025-08-09 19:38:44 — ERROR — Cause exception while process update id=616637034 by bot id=8402776636
+NameError: name 'get_checks_done' is not defined
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\fsm\middleware.py", line 41, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 128, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 123, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 156, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 128, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 123, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 148, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\User\Downloads\Documents\TG_CHECKER_V1_FIXED (1)\TG_CHECKER _V1\handlers\check_status.py", line 32, in handle_status_button
+    count = get_checks_done(user_id)
+            ^^^^^^^^^^^^^^^
+NameError: name 'get_checks_done' is not defined
+2025-08-09 19:49:14 — INFO — Polling stopped
+2025-08-09 19:49:14 — INFO — [User SYSTEM] 🛑 Bot is shutting down
+2025-08-09 19:49:14 — INFO — Polling stopped for bot @KAWSARBEBBZZ_BOT id=8402776636 - 'POWERED BY MKAWSAR & MKAWSAR'
+2025-08-09 19:49:14 — INFO — [User SYSTEM] ❗ Bot stopped manually
+2025-08-09 19:49:19 — INFO — [User SYSTEM] 🚀 Bot is starting
+2025-08-09 19:49:19 — INFO — Start polling
+2025-08-09 19:49:21 — INFO — Run polling for bot @KAWSARBEBBZZ_BOT id=8402776636 - 'POWERED BY MKAWSAR & MKAWSAR'
+2025-08-09 19:49:26 — INFO — Update id=616637035 is not handled. Duration 0 ms by bot id=8402776636
+2025-08-09 19:49:26 — ERROR — Cause exception while process update id=616637035 by bot id=8402776636
+NameError: name 'get_checks_done' is not defined
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\fsm\middleware.py", line 41, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 128, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 123, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 156, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 128, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 123, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 148, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\User\Downloads\Documents\TG_CHECKER_V1_FIXED (1)\TG_CHECKER _V1\handlers\check_status.py", line 33, in handle_status_button
+    count = get_checks_done(user_id)
+            ^^^^^^^^^^^^^^^
+NameError: name 'get_checks_done' is not defined
+2025-08-09 19:49:38 — INFO — [User 6985053471] 📥 Dropped numbers for auto-check
+2025-08-09 19:49:38 — INFO — Connecting to 149.154.167.92:443/TcpFull...
+2025-08-09 19:49:39 — INFO — Connection to 149.154.167.92:443/TcpFull complete!
+2025-08-09 19:49:41 — INFO — [User 6985053471] 📱 Checked 29 numbers; valid=4 invalid=25
+2025-08-09 19:49:41 — INFO — Disconnecting from 149.154.167.92:443/TcpFull...
+2025-08-09 19:49:41 — INFO — Disconnection from 149.154.167.92:443/TcpFull complete!
+2025-08-09 19:49:42 — INFO — Update id=616637036 is handled. Duration 3485 ms by bot id=8402776636
+2025-08-09 19:51:00 — INFO — Polling stopped
+2025-08-09 19:51:00 — INFO — [User SYSTEM] 🛑 Bot is shutting down
+2025-08-09 19:51:00 — INFO — Polling stopped for bot @KAWSARBEBBZZ_BOT id=8402776636 - 'POWERED BY MKAWSAR & MKAWSAR'
+2025-08-09 19:51:00 — INFO — [User SYSTEM] ❗ Bot stopped manually
+2025-08-09 21:32:40 — INFO — [User SYSTEM] 🚀 Bot is starting
+2025-08-09 21:32:40 — INFO — Start polling
+2025-08-09 21:32:41 — INFO — Run polling for bot @KAWSARBEBBZZ_BOT id=8402776636 - 'POWERED BY MKAWSAR & MKAWSAR'
+2025-08-09 21:32:54 — INFO — [User 6985053471] 📥 Dropped numbers for auto-check
+2025-08-09 21:32:54 — INFO — Connecting to 149.154.167.92:443/TcpFull...
+2025-08-09 21:32:54 — INFO — Connection to 149.154.167.92:443/TcpFull complete!
+2025-08-09 21:32:57 — INFO — [User 6985053471] 📱 Checked 29 numbers; valid=4 invalid=25
+2025-08-09 21:32:57 — INFO — Disconnecting from 149.154.167.92:443/TcpFull...
+2025-08-09 21:32:57 — INFO — Disconnection from 149.154.167.92:443/TcpFull complete!
+2025-08-09 21:32:57 — INFO — Update id=616637037 is handled. Duration 3406 ms by bot id=8402776636
+2025-08-09 21:33:04 — INFO — [User 6985053471] 📊 STATUS CHECK — Used: 0, Remaining: 120
+2025-08-09 21:33:05 — INFO — Update id=616637038 is handled. Duration 500 ms by bot id=8402776636
+2025-08-09 21:33:08 — INFO — [User 6985053471] Opened Developer Info
+2025-08-09 21:33:08 — INFO — Update id=616637039 is handled. Duration 375 ms by bot id=8402776636
+2025-08-09 21:35:25 — INFO — Polling stopped
+2025-08-09 21:35:26 — INFO — [User SYSTEM] 🛑 Bot is shutting down
+2025-08-09 21:35:26 — INFO — Polling stopped for bot @KAWSARBEBBZZ_BOT id=8402776636 - 'POWERED BY MKAWSAR & MKAWSAR'
+2025-08-09 21:35:26 — INFO — [User SYSTEM] ❗ Bot stopped manually
+2025-08-09 21:46:28 — INFO — [User SYSTEM] 🚀 Bot is starting
+2025-08-09 21:46:28 — INFO — Start polling
+2025-08-09 21:46:29 — INFO — Run polling for bot @KAWSARBEBBZZ_BOT id=8402776636 - 'POWERED BY MKAWSAR & MKAWSAR'
+2025-08-09 21:46:39 — INFO — [User 6985053471] 📥 Dropped numbers for auto-check
+2025-08-09 21:46:39 — INFO — Connecting to 149.154.167.92:443/TcpFull...
+2025-08-09 21:46:39 — INFO — Connection to 149.154.167.92:443/TcpFull complete!
+2025-08-09 21:46:42 — INFO — [User 6985053471] 📱 Checked 29 numbers; valid=4 invalid=25
+2025-08-09 21:46:42 — INFO — Disconnecting from 149.154.167.92:443/TcpFull...
+2025-08-09 21:46:42 — INFO — Disconnection from 149.154.167.92:443/TcpFull complete!
+2025-08-09 21:46:43 — INFO — Update id=616637040 is handled. Duration 3780 ms by bot id=8402776636
+2025-08-09 21:46:49 — INFO — [User 6985053471] 📊 STATUS CHECK — Used: 0, Remaining: 120
+2025-08-09 21:46:49 — INFO — Update id=616637041 is handled. Duration 391 ms by bot id=8402776636
+2025-08-09 21:49:54 — INFO — Polling stopped
+2025-08-09 21:49:55 — INFO — [User SYSTEM] 🛑 Bot is shutting down
+2025-08-09 21:49:55 — INFO — Polling stopped for bot @KAWSARBEBBZZ_BOT id=8402776636 - 'POWERED BY MKAWSAR & MKAWSAR'
+2025-08-09 21:49:55 — INFO — [User SYSTEM] ❗ Bot stopped manually
+2025-08-09 21:50:59 — INFO — [User SYSTEM] 🚀 Bot is starting
+2025-08-09 21:50:59 — INFO — Start polling
+2025-08-09 21:50:59 — INFO — Run polling for bot @KAWSARBEBBZZ_BOT id=8402776636 - 'POWERED BY MKAWSAR & MKAWSAR'
+2025-08-09 21:51:08 — INFO — [User 6985053471] 📥 Dropped numbers for auto-check
+2025-08-09 21:51:08 — INFO — Connecting to 149.154.167.92:443/TcpFull...
+2025-08-09 21:51:08 — INFO — Connection to 149.154.167.92:443/TcpFull complete!
+2025-08-09 21:51:11 — INFO — [User 6985053471] 📱 Checked 29 numbers; valid=4 invalid=25
+2025-08-09 21:51:11 — INFO — Disconnecting from 149.154.167.92:443/TcpFull...
+2025-08-09 21:51:11 — INFO — Disconnection from 149.154.167.92:443/TcpFull complete!
+2025-08-09 21:51:11 — INFO — Update id=616637042 is handled. Duration 3500 ms by bot id=8402776636
+2025-08-09 21:51:16 — INFO — [User 6985053471] 📊 STATUS CHECK — Used: 0, Remaining: 120
+2025-08-09 21:51:16 — INFO — Update id=616637043 is handled. Duration 453 ms by bot id=8402776636
+2025-08-09 21:52:06 — INFO — Polling stopped
+2025-08-09 21:52:06 — INFO — [User SYSTEM] 🛑 Bot is shutting down
+2025-08-09 21:52:06 — INFO — Polling stopped for bot @KAWSARBEBBZZ_BOT id=8402776636 - 'POWERED BY MKAWSAR & MKAWSAR'
+2025-08-09 21:52:06 — INFO — [User SYSTEM] ❗ Bot stopped manually
+2025-08-10 01:36:37 — INFO — [User SYSTEM] 🚀 Bot is starting
+2025-08-10 01:36:37 — INFO — Start polling
+2025-08-10 01:36:37 — INFO — Run polling for bot @KAWSARBEBBZZ_BOT id=8402776636 - 'POWERED BY MKAWSAR & MKAWSAR'
+2025-08-10 01:36:38 — INFO — [User 6985053471] 🚀 Restarted bot (session exists)
+2025-08-10 01:36:39 — INFO — Update id=616637049 is handled. Duration 1281 ms by bot id=8402776636
+2025-08-10 01:36:45 — INFO — Update id=616637050 is handled. Duration 405 ms by bot id=8402776636
+2025-08-10 01:36:54 — INFO — [User 6985053471] 📥 Dropped numbers for auto-check
+2025-08-10 01:36:54 — INFO — Connecting to 149.154.167.92:443/TcpFull...
+2025-08-10 01:36:55 — INFO — Connection to 149.154.167.92:443/TcpFull complete!
+2025-08-10 01:36:57 — INFO — [User 6985053471] 📱 Checked 29 numbers; valid=4 invalid=25
+2025-08-10 01:36:57 — INFO — Disconnecting from 149.154.167.92:443/TcpFull...
+2025-08-10 01:36:57 — INFO — Disconnection from 149.154.167.92:443/TcpFull complete!
+2025-08-10 01:36:58 — INFO — Update id=616637051 is handled. Duration 3234 ms by bot id=8402776636
+2025-08-10 01:37:01 — INFO — Update id=616637052 is handled. Duration 406 ms by bot id=8402776636
+2025-08-10 01:37:07 — INFO — Update id=616637053 is handled. Duration 406 ms by bot id=8402776636
+2025-08-10 01:50:42 — INFO — Polling stopped
+2025-08-10 01:50:42 — ERROR — Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [Errno 1] [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2706)
+2025-08-10 01:50:42 — WARNING — Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8402776636)
+2025-08-10 01:50:42 — INFO — [User SYSTEM] 🛑 Bot is shutting down
+2025-08-10 01:50:42 — INFO — Polling stopped for bot @KAWSARBEBBZZ_BOT id=8402776636 - 'POWERED BY MKAWSAR & MKAWSAR'
+2025-08-10 01:50:42 — INFO — [User SYSTEM] ❗ Bot stopped manually

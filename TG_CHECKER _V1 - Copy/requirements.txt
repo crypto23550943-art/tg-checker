@@ -1,0 +1,6 @@
+aiogram==3.4.1
+telethon==1.28.5
+python-dotenv==1.0.1
+aiofiles==23.2.1
+tinydb==4.8.0
+rich
